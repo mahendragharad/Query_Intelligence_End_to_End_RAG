@@ -1,0 +1,1 @@
+# For scalability purpose you can write your own new vector database schema here 

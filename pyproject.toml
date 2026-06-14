@@ -1,0 +1,12 @@
+[project]
+name = "my-rag-project"
+version = "0.1.0"
+description = "A RAG Application"
+requires-python = ">=3.11"
+
+dependencies = [
+    "fastapi",
+    "langchain",
+    "chromadb",
+    "openai"
+]
